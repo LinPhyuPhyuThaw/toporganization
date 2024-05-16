@@ -1,0 +1,1533 @@
+@media screen and (max-width:767px){
+    .navbar {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color: #fff;
+        padding: 10px;
+    }
+
+    .navbar ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .navbar ul li {
+        padding: 10px 0;
+    }
+
+    .navbar ul li a {
+        display: block;
+        padding: 5px 10px;
+        color: #333;
+        text-decoration: none;
+    }
+
+    .navbar ul ul {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 100%;
+    }
+
+    .navbar ul ul li {
+        padding: 5px 0;
+    }
+
+    .navbar ul ul li a {
+        padding: 5px 15px;
+    }
+
+    .TOP h2{
+        font-size: 3rem;
+        font-family: "Gelasio", serif;
+        color: darkblue;
+        font-weight: bold;
+    }
+    
+    .TOP p{
+        font-size: 1.5rem;
+        font-family: "Bree Serif", serif;
+        color: darkblue;
+    }
+
+    .intro{
+        padding: 5px;
+        margin-top: 5px;
+    }
+
+    .intro h2{
+        font-size: 3rem;
+        font-weight: bold;
+        font-family: "Rubik Doodle Shadow", system-ui;
+        margin-bottom: 20px;
+        padding-top: 80px;
+    }
+    
+    .intro p{
+        font-size: 2.2rem;
+        font-weight: bold;
+        font-family: "Bree Serif", serif;
+        padding-top: 40px;
+        padding-bottom: 80px;
+    }
+
+    .role1 .rolepic{
+        width: 100%; 
+    }
+    
+    .role1 .rolepic img{
+        width: 100%;
+    }
+    
+    .role1 .roletxt{
+        margin: 10px;
+        padding-top: 10px;
+        border-bottom: 2px solid;
+    }
+    
+    .role2 .rolepic{
+        width: 100%; 
+        border-bottom: 2px solid;
+    }
+    
+    .role2 .rolepic img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    
+    .role2 .roletxt{
+        margin: 10px;
+    }
+    
+    .role3 .rolepic{
+        width: 100%; 
+        margin-top: 20px;
+    }
+    
+    .role3 .rolepic img{
+        width: 100%;
+    }
+    
+    .role3 .roletxt{
+        margin: 10px;
+        padding-top: 20px;
+        border-bottom: 2px solid;
+    }
+    
+    .role4 .rolepic{
+        width: 100%;
+        border-bottom: 2px solid; 
+    }
+    
+    .role4 .rolepic img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    
+    .role4 .roletxt{
+        margin: 10px;
+        padding-top: 20px;
+    }
+    
+    .role5 .rolepic{
+        width: 100%; 
+        margin-top: 20px;
+    }
+    
+    .role5 .rolepic img{
+        width: 100%;
+    }
+    
+    .role5 .roletxt{
+        margin: 10px;
+        padding-top: 20px;
+        border-bottom: 2px solid;
+    }
+    
+    .role6 .rolepic{
+        width: 100%; 
+    }
+    
+    .role6 .rolepic img{
+        width: 100%;
+    }
+
+    .role6 .roletxt{
+        margin: 10px;
+        padding-top: 20px;
+    }
+
+    .roletxt h2{
+        font-size: 1.5rem;
+    }
+
+    .roletxt p{
+        font-size: 1.1rem;
+    }
+
+    .update{
+        text-align: center;
+        margin: 40px 0;
+    }
+
+    .foundcard{
+        margin-top: 20px;
+        margin-bottom: 400px;
+    }
+
+    .foundcard .card-text1{
+        text-align: justify;
+        font-size: 1rem;
+        font-family: "Bree Serif", serif;
+    }
+    
+    .foundcard .card-text{
+        font-size: 1.3rem;
+        font-weight: bold;
+        font-family: "Rubik Doodle Shadow", system-ui;
+    }
+
+    .flip-card{
+        margin: 10px;
+    }
+
+    .card2{
+        margin-top: 400px;
+        margin-bottom: 400px;
+    }
+
+    .card-img-top {
+        max-height: 220px;
+        object-fit: cover;
+    }
+
+    .donate{
+        margin-top: 10px;
+    }
+
+    .donatepic img{
+        width: 70%;
+        justify-content: center;
+        padding-left: 100px;
+        padding-bottom: 20px;
+        margin-top: 5px;
+    }
+
+    header .banner .logo .logotext{
+        font-size: 1.1rem;
+    }
+
+    footer .base h5{
+        font-weight: bold;
+        font-family: "Bree Serif", serif;
+        color: darkblue;
+        font-size: 1rem;
+    }
+
+    #carouselSlide{
+        margin-top: 250px;
+    }
+
+    .plan .photo img{
+        width: 80%;
+        padding-top: 80px;
+        padding-left: 20px;
+    }
+    
+    .desc .card{
+        width: 95%;
+        height: 100%;
+        margin: 10px;
+        border-radius: 10px;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+    }
+    
+    .desc .card h2{
+        text-align: center;
+        font-weight: bold;
+        font-size: 2.5rem;
+        font-family: "Comic Neue", cursive;
+        padding-top: 50px;
+    }
+    
+    .desc .card p{
+        text-align: justify;
+        padding-top: 30px;
+        font-size: 1.1rem;
+        font-family: "Gelasio", serif;
+    }
+
+    .vision .shot img{
+        display: none;
+    }
+    
+    .vision .card{
+        width: 90%;
+        height: 90%;
+        margin: 20px;
+    }
+    
+    .vision .card h2{
+        font-size: 3rem;
+        padding-top: 50px;
+    }
+
+    .vision .card p{
+        padding-top: 15px;
+        font-size: 1.1rem;
+        text-align: justify;
+        font-weight: bold;
+    }
+    
+    .mission .shot img{
+        width: 100%;
+        padding-top: 30px;
+    }
+    
+    .mission .card{  
+        width: 90%;
+        height: 90%;
+        margin: 20px;
+    }
+    
+    .mission .card h2{
+        font-size: 3rem;
+        padding-top: 70px;
+    }
+    
+    .mission .card p{ 
+        padding-top: 15px;
+        font-size: 1.1rem;
+        text-align: justify;
+        font-weight: bold;
+    }
+
+    .webintro{
+        margin-top: 270px;
+        cursor: pointer;
+    }
+    
+    .webintro .txt h2{
+        font-size: 0.8rem;
+        font-weight: bold;
+        font-family: "Gelasio", serif;
+        color: whitesmoke;
+        padding-top: 100px;
+    }
+    
+    .webintro .txt p{
+        font-size: 0.6rem;
+        font-weight: bold;
+        font-family: "Bree Serif", serif;
+        color: whitesmoke;
+        padding-bottom: 100px;
+    }
+    
+    .webintro .txt ul li{
+        font-size: 0.6rem;
+        color: whitesmoke;
+        font-family: "Bree Serif", serif;
+        padding-top: 5px;
+        list-style-type: square;
+    }
+
+    .webinars .card{
+        height: 300px;
+        margin-top: 150px;
+        margin-bottom: 30px;
+    }
+
+    .img-text h2{
+        padding-top: 20px;
+    }
+
+    .img-text p{
+        padding: 20px 20px 30px 40px;
+    }
+
+    .posts{
+        margin-top: 300px;
+        margin-bottom: 70px;
+        color: black;
+        text-align: center;
+    }
+    
+    .posts h2{
+        font-size: 1.8rem;
+        font-weight: bold;
+        font-family: "Rubik Doodle Shadow", system-ui;
+    }
+
+    .videos .video{
+        text-align: center;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .fbposts .fbpost{
+        text-align: center;
+        width: 100%;
+        height: 100%;
+    }
+
+    footer .base a{
+        font-size: 0.6rem;
+    }
+
+    .on-ground{
+        text-align: center;
+    }
+
+    .on-ground h2{
+        font-size: 1.4rem;
+        padding-bottom: 10px;
+    }
+
+    .on-ground p{
+        font-size: 0.8rem;
+    }
+
+}
+
+@media screen and (min-width:768px) and (max-width:1023px){
+
+    header .banner .logo .logotext{
+        font-size: 2rem;
+    }
+
+    header .bar .navbar ul li a{
+        font-size: 1.3rem;
+    }
+
+    .TOP h2{
+        font-size: 5rem;
+        font-family: "Gelasio", serif;
+        color: darkblue;
+        font-weight: bold;
+    }
+    
+    .TOP p{
+        font-size: 2rem;
+        font-family: "Bree Serif", serif;
+        color: darkblue;
+    }
+
+    .intro{
+        padding: 20px;
+        margin-top: 5px;
+    }
+
+    .intro h2{
+        font-size: 3.8rem;
+        font-weight: bold;
+        font-family: "Rubik Doodle Shadow", system-ui;
+        margin-bottom: 20px;
+        padding-top: 200px;
+    }
+    
+    .intro p{
+        font-size: 3rem;
+        font-weight: bold;
+        font-family: "Bree Serif", serif;
+        padding-top: 40px;
+        padding-bottom: 100px;
+    }
+
+    .role1 .rolepic{
+        width: 100%; 
+        margin-left: 40px;
+    }
+    
+    .role1 .rolepic img{
+        width: 100%;
+    }
+    
+    .role1 .roletxt{
+        margin-right: 100px;
+        padding-top: 20px;
+        border-bottom: 2px solid;
+    }
+    
+    .role2 .rolepic{
+        width: 100%; 
+        margin-right: 40px;
+        margin-top: 30px;
+    }
+    
+    .role2 .rolepic img{
+        width: 100%;
+        border-bottom: 2px solid;
+        padding-bottom: 50px;
+    }
+    
+    .role2 .roletxt{
+        margin-left: 90px;
+        margin-right: 20px;
+        padding-top: 20px;
+    }
+    
+    .role3 .rolepic{
+        width: 100%; 
+        margin-left: 40px;
+        margin-top: 50px;
+    }
+    
+    .role3 .rolepic img{
+        width: 100%;
+    }
+    
+    .role3 .roletxt{
+        margin-right: 100px;
+        margin-left: 20px;
+        padding-top: 70px;
+        border-bottom: 2px solid;
+    }
+    
+    .role4 .rolepic{
+        width: 100%; 
+        margin-right: 40px;
+        margin-top: 50px;
+        border-bottom: 2px solid;
+        padding-bottom: 20px;
+    }
+    
+    .role4 .rolepic img{
+        width: 100%;
+    }
+    
+    .role4 .roletxt{
+        margin-left: 90px;
+        margin-right: 20px;
+        padding-top: 50px;
+    }
+    
+    .role5 .rolepic{
+        width: 100%; 
+        margin-left: 40px;
+        margin-top: 60px;
+    }
+    
+    .role5 .rolepic img{
+        width: 100%;
+    }
+    
+    .role5 .roletxt{
+        margin-left: 20px;
+        margin-right: 100px;
+        padding-top: 50px;
+        padding-bottom: 20px;
+        border-bottom: 2px solid;
+    }
+    
+    .role6 .rolepic{
+        width: 100%; 
+        margin-right: 40px;
+        margin-top: 50px;
+    }
+    
+    .role6 .rolepic img{
+        width: 100%;
+    }
+    
+    .role6 .roletxt{
+        margin-left: 90px;
+        margin-right: 20px;
+        padding-top: 50px;
+    }
+
+    .roletxt h2{
+        font-size: 1.5rem;
+    }
+
+    .roletxt p{
+        font-size: 1.1rem;
+    }
+
+    .foundcard{
+        margin-top: 20px;
+        margin-bottom: 550px;
+        display: flex;
+    }
+
+    .foundcard .card-text1{
+        text-align: justify;
+        font-size: 1.35rem;
+        font-family: "Bree Serif", serif;
+    }
+    
+    .foundcard .card-text{
+        font-size: 1.6rem;
+        font-weight: bold;
+        font-family: "Rubik Doodle Shadow", system-ui;
+    }
+    
+    .flip-card{
+        margin: 10px;
+    }
+
+    .card-img-top {
+        max-height: 800px;
+        object-fit: cover;
+    }
+
+    .donatepic img{
+        width: 70%;
+        padding-left: 250px;
+        padding-bottom: 20px;
+        margin-top: 30px;
+    }
+    
+    #carouselSlide{
+        margin-top: 200px;
+    }
+
+    .plan .photo img{
+        width: 80%;
+        padding-top: 100px;
+        padding-left: 20px;
+    }
+    
+    .desc .card{
+        width: 95%;
+        height: 100%;
+        padding-right: 10px;
+        border-radius: 10px;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+    }
+    
+    .desc .card h2{
+        text-align: center;
+        font-weight: bold;
+        font-size: 2.5rem;
+        font-family: "Comic Neue", cursive;
+        padding-top: 50px;
+    }
+    
+    .desc .card p{
+        text-align: justify;
+        padding-top: 30px;
+        font-size: 1.1rem;
+        font-family: "Gelasio", serif;
+    }
+
+    .vision .shot img{
+        width: 80%;
+        padding-top: 20px;
+        padding-right: 20px;
+    }
+    
+    .vision .card{
+        width: 90%;
+        height: 100%;
+        margin-left: 10%;
+        margin-top: 120px;
+    }
+    
+    .vision .card h2{
+        font-size: 5rem;
+        padding-top: 50px;
+    }
+    
+    .vision .card p{
+        padding-top: 15px;
+        font-size: 1.1rem;
+    }
+    
+    .mission .shot img{
+        width: 80%;
+        padding-top: 30px;
+    }
+    
+    .mission .card{  
+        width: 90%;
+        height: 100%;
+    }
+    
+    .mission .card h2{
+        font-size: 4rem;
+        padding-top: 70px;
+    }
+    
+    .mission .card p{ 
+        padding-top: 15px;
+        font-size: 1.1rem;
+        text-align: justify;
+        font-weight: bold;
+    }
+
+    .webintro{
+        margin-top: 300px;
+        cursor: pointer;
+        padding-bottom: 100px;
+    }
+    
+    .webintro .txt h2{
+        font-size: 2rem;
+        font-weight: bold;
+        font-family: "Gelasio", serif;
+        color: whitesmoke;
+        padding-top: 40px;
+    }
+    
+    .webintro .txt p{
+        font-size: 1.2rem;
+        font-weight: bold;
+        font-family: "Bree Serif", serif;
+        color: whitesmoke;
+        padding: 30px;
+    }
+    
+    .webintro .txt ul li{
+        font-size: 1.2rem;
+        color: whitesmoke;
+        font-family: "Bree Serif", serif;
+        padding-top: 20px;
+        list-style-type: square;
+    }
+
+    .webinars .card{
+        height: 300px;
+        margin-top: 90px;
+        margin-bottom: 100px;
+    }
+
+    .img-text h2{
+        padding-top: 20px;
+    }
+
+    .img-text p{
+        padding: 20px 20px 30px 40px;
+    }
+
+    .posts{
+        margin-top: 350px;
+        margin-bottom: 70px;
+        color: black;
+        text-align: center;
+    }
+    
+    .posts h2{
+        font-size: 4rem;
+        font-weight: bold;
+        font-family: "Rubik Doodle Shadow", system-ui;
+    }
+
+    .videos{
+        width: 100%;
+        height: 100%;
+    }
+    
+    .fbposts{
+        width: 100%;
+        height: 100%;
+    }
+
+    .update{
+        text-align: center;
+        margin: 90px 0;
+    }
+
+    .on-ground h2{
+        text-align: center;
+        font-size: 2rem;
+    }
+
+    .on-ground p{
+        text-align: justify;
+        margin: 20px;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    header .banner .logo .logotext{
+        font-size: 2rem;
+    }
+    
+    header .bar .navbar ul li a{
+        font-size: 1.5rem;
+    }
+
+    .TOP h2{
+        font-size: 5rem;
+        font-family: "Gelasio", serif;
+        color: darkblue;
+        font-weight: bold;
+    }
+    
+    .TOP p{
+        font-size: 2rem;
+        font-family: "Bree Serif", serif;
+        color: darkblue;
+    }
+
+    .cover{
+        margin-top: 70px;
+        text-align: center;
+    }
+
+    .intro{
+        padding: 20px;
+        margin-top: 20px;
+    }
+
+    .intro h2{
+        font-size: 5rem;
+        font-weight: bold;
+        font-family: "Rubik Doodle Shadow", system-ui;
+        margin-bottom: 20px;
+        padding-top: 200px;
+    }
+    
+    .intro p{
+        font-size: 3rem;
+        font-weight: bold;
+        font-family: "Bree Serif", serif;
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    .role1 .rolepic{
+        width: 100%; 
+        margin-left: 40px;
+    }
+    
+    .role1 .rolepic img{
+        width: 100%;
+    }
+    
+    .role1 .roletxt{
+        margin-right: 100px;
+        padding-top: 100px;
+    }
+    
+    .role2 .rolepic{
+        width: 100%; 
+        margin-right: 40px;
+    }
+    
+    .role2 .rolepic img{
+        width: 100%;
+    }
+    
+    .role2 .roletxt{
+        margin-left: 90px;
+        margin-right: 20px;
+        padding-top: 60px;
+    }
+    
+    .role3 .rolepic{
+        width: 100%; 
+        margin-left: 40px;
+    }
+    
+    .role3 .rolepic img{
+        width: 100%;
+    }
+    
+    .role3 .roletxt{
+        margin-right: 100px;
+        margin-left: 20px;
+        padding-top: 100px;
+    }
+    
+    .role4 .rolepic{
+        width: 100%; 
+        margin-right: 40px;
+    }
+    
+    .role4 .rolepic img{
+        width: 100%;
+    }
+    
+    .role4 .roletxt{
+        margin-left: 90px;
+        margin-right: 20px;
+        padding-top: 100px;
+    }
+    
+    .role5 .rolepic{
+        width: 100%; 
+        margin-left: 40px;
+    }
+    
+    .role5 .rolepic img{
+        width: 100%;
+    }
+    
+    .role5 .roletxt{
+        margin-left: 20px;
+        margin-right: 100px;
+        padding-top: 100px;
+    }
+    
+    .role6 .rolepic{
+        width: 100%; 
+        margin-right: 40px;
+    }
+    
+    .role6 .rolepic img{
+        width: 100%;
+    }
+    
+    .role6 .roletxt{
+        margin-left: 90px;
+        margin-right: 20px;
+        padding-top: 100px;
+    }
+
+    .roletxt h2{
+        font-size: 2rem;
+    }
+
+    .roletxt p{
+        font-size: 1.3rem;
+    }
+
+    .foundcard{
+        margin-top: 20px;
+        margin-bottom: 700px;
+        display: flex;
+    }
+
+    .foundcard .card-text1{
+        text-align: justify;
+        font-size: 1.7rem;
+        font-family: "Bree Serif", serif;
+    }
+    
+    .foundcard .card-text{
+        font-size: 3rem;
+        font-weight: bold;
+        font-family: "Rubik Doodle Shadow", system-ui;
+    }
+
+    .flip-card{
+        margin: 10px;
+    }
+
+    .card-img-top {
+        max-height: 500px;
+        object-fit: cover;
+    }
+
+    .donatepic img{
+        width: 70%;
+        padding-left: 400px;
+        padding-bottom: 20px;
+        margin-top: 100px;
+    }
+
+    #carouselSlide{
+        margin-top: 200px;
+    }
+
+    .plan .photo img{
+        width: 70%;
+        padding-top: 100px;
+        padding-left: 100px;
+    }
+    
+    .desc .card{
+        width: 80%;
+        height: 100%;
+        margin-left: 5px;
+        border-radius: 10px;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+    }
+    
+    .desc .card h2{
+        text-align: center;
+        font-weight: bold;
+        font-size: 2.5rem;
+        font-family: "Comic Neue", cursive;
+        padding-top: 50px;
+    }
+    
+    .desc .card p{
+        text-align: justify;
+        padding-top: 30px;
+        font-size: 1.2rem;
+        font-family: "Gelasio", serif;
+    }
+
+    .vision .shot img{
+        width: 80%;
+        padding-top: 20px;
+        padding-right: 20px;
+    }
+    
+    .vision .card{
+        width: 80%;
+        height: 80%;
+        margin-left: 10%;
+        margin-top: 120px;
+    }
+    
+    .vision .card h2{
+        font-size: 4rem;
+        padding-top: 130px;
+    }
+    
+    .vision .card p{
+        padding-top: 15px;
+        font-size: 1.1rem;
+        text-align: justify;
+        font-weight: bold;
+    }
+    
+    .mission .shot img{
+        width: 80%;
+        padding-top: 30px;
+    }
+    
+    .mission .card{  
+        width: 80%;
+        height: 80%;
+    }
+    
+    .mission .card h2{
+        font-size: 4rem;
+        padding-top: 130px;
+    }
+    
+    .mission .card p{ 
+        padding-top: 15px;
+        font-size: 1.1rem;
+        text-align: justify;
+        font-weight: bold;
+    }
+
+    .webintro{
+        margin-top: 300px;
+        cursor: pointer;
+        padding-bottom: 100px;
+    }
+    
+    .webintro .txt h2{
+        font-size: 4rem;
+        font-weight: bold;
+        font-family: "Gelasio", serif;
+        color: whitesmoke;
+        padding-top: 40px;
+    }
+    
+    .webintro .txt p{
+        font-size: 2.5rem;
+        font-weight: bold;
+        font-family: "Bree Serif", serif;
+        color: whitesmoke;
+        padding: 30px;
+    }
+    
+    .webintro .txt ul li{
+        font-size: 2.5rem;
+        color: whitesmoke;
+        font-family: "Bree Serif", serif;
+        padding-top: 20px;
+        list-style-type: square;
+    }
+
+    .webinars .card{
+        height: 300px;
+        margin-top: 100px;
+        margin-bottom: 40px;
+    }
+
+    .img-text h2{
+        padding-top: 20px;
+    }
+
+    .img-text p{
+        padding: 20px 20px 30px 40px;
+    }
+
+    .posts{
+        margin-top: 350px;
+        margin-bottom: 70px;
+        color: black;
+        text-align: center;
+    }
+    
+    .posts h2{
+        font-size: 5rem;
+        font-weight: bold;
+        font-family: "Rubik Doodle Shadow", system-ui;
+    }
+    
+    .videos{
+        margin: 1rem 0.4rem;
+    }
+    
+    .fbposts{
+        margin: 1rem 3rem;
+    }
+
+    .update{
+        text-align: center;
+        margin: 90px 0;
+    }
+
+    .on-ground{
+        margin-top: 50px;
+    }
+
+    .on-ground h2{
+        text-align: center;
+        font-size: 2.5rem;
+    }
+
+    .on-ground p{
+        text-align: justify;
+        margin: 30px;
+        font-size: 1.5rem;
+    }
+
+}
+
+header{
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    font-family: 'Kreon', serif;
+    background-color: #ffffff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .bar{
+    display: flex;
+    padding-top: 20px;
+}
+
+header .banner{
+    border-bottom-style: groove;
+}
+
+header .banner .logo{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    display: flex;
+}
+
+header .banner .logo .logopc{
+    padding-left: 50px;
+}
+
+header .banner .logo .logopc img{
+    width: 100px;
+}
+
+header .banner .logo .logotext{
+    color: darkblue;
+    font-weight: bold;
+    font-family: "Bree Serif", serif;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+header .bar .navbar{
+    padding-right: 20px;
+    padding-top: 15px;
+}
+    
+header .bar .navbar ul{
+    list-style-type: none;
+}
+
+header .bar .navbar ul li{
+    position: relative;
+    float: left;
+}
+
+header .bar .navbar ul li a{
+    text-decoration: none;
+    font-family: "Oleo Script", system-ui;
+    color: #333;
+    padding: 10px;
+    display: block;
+}
+
+header .bar .navbar ul li a span{
+    padding-left: 7px;
+}
+
+header .bar .navbar ul li a:hover {
+    border-bottom: 2px solid;
+    border-top: 2px solid;
+}
+
+header .bar .navbar ul li ul{
+    position: absolute;
+    width: 230px;
+    background-color: #ffffff;
+    left: 0;
+    display: none;
+}
+
+header .bar .navbar ul li ul li{
+    width: 100%;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+
+header .bar .navbar ul li:focus-within > ul,
+header .bar .navbar ul li:hover > ul{
+    display: initial;
+}
+
+header .bar{
+    cursor: pointer;
+}
+
+.TOP{
+    margin-top: 400px;
+    text-align: center;
+}
+
+.TOP button{
+    font-size: 1.2rem;
+    font-family: "Comic Neue", cursive;
+    color: black;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+.cover{
+    margin-top: 70px;
+    text-align: center;
+}
+
+.intro{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    color: black;
+    text-align: center;
+}
+
+.roles{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.roletxt h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: "Libre Baskerville", serif;
+}
+
+.roletxt p{
+    padding-top: 40px;
+    text-align: justify;
+    font-family: "Bree Serif", serif;
+}
+
+.last{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.last img{
+    width: 100%;
+}
+
+.update p{
+    font-size: 1.5rem;
+    font-family: "Comic Neue", cursive;
+}
+
+.update button{
+    font-size: 1.3rem;
+    font-family: "Oleo Script", system-ui;
+    color: black;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.flip-card {
+    perspective: 1000px;
+    margin-top: 10px;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+}
+
+.flip-card-front {
+    background-color: #f8f9fa;
+    color: #000;
+}
+
+.flip-card-back {
+    background-color: #343a40;
+    color: black;
+    transform: rotateY(180deg);
+}
+
+.dnform{
+    background-color: rgb(9, 88, 153);
+    padding-bottom: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.dnform form{
+    padding: 0 50px;
+}
+
+.dnform form label{
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: "Gelasio", serif;
+    color: white;
+}
+
+.dnform form input, .dnform form .message{
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 3px solid #fff;
+    outline: none;
+    background: transparent;
+}
+
+.dnform form input:hover{
+    outline: none;
+    background: transparent;
+}
+
+.dnform form .message:hover{
+    outline: none;
+    background: transparent;
+}
+
+.dnform form button{
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: "Oleo Script", system-ui;
+}
+
+.dnform h2{
+    font-weight: bold;
+    font-size: 3rem;
+    font-family: "Libre Baskerville", serif;
+    color: yellow;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.dnform p{
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: "Gelasio", serif;
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin-top: 10px;
+}
+
+footer .base{
+    padding-top: 30px;
+}
+
+footer .base h6{
+    font-weight: bold;
+    font-family: "Bree Serif", serif;
+    color: darkblue;
+}
+
+footer .base a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-family: "Bree Serif", serif;
+}
+
+footer .base a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+footer .social-media{
+    padding-top: 50px;
+}
+
+footer .social-media i{
+    color: black;
+    font-size: 1.7rem;
+    padding: 10px;
+}
+
+
+.vision .card{
+    border-radius: 10px;
+    background-color: darkblue;
+    color: gainsboro;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+.vision .card h2{
+    font-family: "Comic Neue", cursive;
+    text-align: center;
+    font-weight: bold;
+}
+
+.mission .card{
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+.mission .card h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: "Comic Neue", cursive;
+}
+
+.webinars .card{
+    position: relative;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+    transition: 0.3s;
+    background: #fff;
+}
+
+.img-box{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform: translateY(-80px);
+    z-index: 1;
+}
+
+.img-box img{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+.img-text{
+    text-align: center;
+    transform: translateY(-400px);
+    opacity: 0;
+    transition: 0.3s;
+}
+
+.img-text h2{
+    font-weight: bold;
+    font-family: "Comic Neue", cursive;
+}
+
+.img-text p{
+    font-family: "Bree Serif", serif;
+    font-size: 1.3rem;
+    text-align: justify;
+}
+
+.webinars .card:hover{
+    height: 100%;
+}
+
+.webinars .card:hover > .img-text{
+    opacity: 1;
+    transform: translateY(-60px);
+}
+
+.pic{
+    position: relative;
+}
+
+.activity-pic img{
+    width: 90%;
+    padding: 20px;
+}
+
+.webintro img{
+    width: 100%;
+    display: block;
+}
+
+.webintro .txt{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.6);
+    flex-direction: column;
+    display: flex;
+    opacity: 0;
+    transition: 0.6s;
+    justify-content: center;
+    align-items: center;
+}
+
+.webintro .txt:hover{
+    opacity: 1;
+}
+
+.post{
+    margin-top: 300px;
+}
+
+.uppost{
+    margin-top: 300px;
+}
+
+.uppost h2{
+    text-align: center;
+    font-size: 2.4rem;
+    font-weight: bold;
+    font-family: "Gelasio", serif;
+    color: black;
+    margin: 20px 0;
+}
+
+.blogform{
+    margin: 20px;
+}
+
+.blogsub{
+    width: 100%;
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+    border: none;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.blogsub:hover{
+    background-color: greenyellow;
+    color: black;
+}
